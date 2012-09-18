@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 Brian Harrison. All rights reserved.
 //
 
+// Brians's a fag
 #import "wtfAppDelegate.h"
 
 @implementation wtfAppDelegate
